@@ -1,2 +1,2 @@
-# Mana_pirm-_vietne
+# Mana_pirma_vietne
 Mana pirmā tīmekļa vietne HTML, CSS un JavaScript valodās.
